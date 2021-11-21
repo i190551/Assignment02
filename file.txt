@@ -1,0 +1,45 @@
+Reservation Details
+Customer Name:usama
+CNIC:1234567891324
+Ticket Number:473468
+Flight Number0012
+Origin:peshawar
+Destination:gawadar
+Date:21/11/21
+Total Due:80000.0Reservation Details
+Customer Name:usama
+CNIC:1234567891234
+Ticket Number:365373
+Flight Number0002
+Origin:quetta
+Destination:karachi
+Date:9/11/21
+Total Due:60000.0Reservation Details
+Customer Name:hurairah jameel
+CNIC:1234567891234
+Ticket Number:863264
+Flight Number0008
+Origin:peshawar
+Destination:faisalabad
+Date:11/11/21
+Total Due:45000.0
+
+Reservation Details
+Customer Name:usama khan
+CNIC:1234567891234
+Ticket Number:922753
+Flight Number0009
+Origin:peshawar
+Destination:islamabad
+Date:8/11/21
+Total Due:75000.0
+
+Reservation Details
+Customer Name:hamza sharafat
+CNIC:4567891234568
+Ticket Number:537438
+Flight Number0006
+Origin:karachi
+Destination:quetta
+Date:9/11/21
+Total Due:65000.0
